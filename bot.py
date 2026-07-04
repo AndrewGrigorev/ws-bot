@@ -7,7 +7,7 @@ import threading
 
 TOKEN = "8830495307:AAHUW_4DL49QMQDGOTJKaB5XUNdp-3fNick"
 ADMIN = 743027847
-DB = "/home/AndrewGrigorev/wc_pool.db"
+DB = "wc_pool.db"
 API_KEY = "0fcafb966ba942d885c4a5ea86c9f94a"
 WEBHOOK_URL = "https://andrewgrigorev.pythonanywhere.com"
 
